@@ -5,9 +5,9 @@ Profie viwers:[![HitCount](https://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello.s
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on bulding an Ecommerc Web
-- 🌱 I’m currently learning JAVASCRIPT , PYTHON , CSS
-- 👯 I’m looking to collaborate on any thing interesting.. and on frontend.
+- 🔭 I’m currently a student of DON BOSCO INSTITUTE OF TECHNOLOGY.
+- 🌱 I’m currently learning JAVASCRIPT , PYTHON , CSS.
+- 👯 I’m looking to collaborate on any thing on fullstack development.
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 How to reach me: merwinrebello02@gmail.com
