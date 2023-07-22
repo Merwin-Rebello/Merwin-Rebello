@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merwin Rebello</h1>
 <h3 align="center">Student at DON BOSCO INSTITUTE OF TECHNOLOGY,KURLA</h3>
 
--Profie viwers:[![HitCount](https://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello.svg?style=flat-square)](http://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello)
+⚡Profile views: [![HitCount](https://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello.svg?style=flat-square)](http://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello)
 
 - 🌱 I’m currently learning **Django , React**
 
