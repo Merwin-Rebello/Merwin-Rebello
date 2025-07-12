@@ -3,7 +3,7 @@
 
 ⚡Profile views: [![HitCount](https://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello.svg?style=flat-square)](http://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello)
 
-- 🌱 I’m currently learning  **Everything that I can **
+- 🌱 I’m currently learning  **Everything that I can**
 
 - 👯 I’m looking to collaborate on **FullStack Web Development** , **Data Analyst** , **Prompt Engineer**
 
