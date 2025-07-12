@@ -3,11 +3,11 @@
 
 ⚡Profile views: [![HitCount](https://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello.svg?style=flat-square)](http://hits.dwyl.com/Merwin-Rebello/Merwin-Rebello)
 
-- 🌱 I’m currently learning  **React** , **Next Js**
+- 🌱 I’m currently learning  **Everything that I can **
 
-- 👯 I’m looking to collaborate on **FullStack Web Development**
+- 👯 I’m looking to collaborate on **FullStack Web Development** , **Data Analyst** , **Prompt Engineer**
 
-- 🤝 I’m looking for help with **FullStack Web Development**
+- 🤝 I’m looking for help with **FullStack Web Development** , **Data Analyst** , **Prompt Engineering**
 
 - 📫 How to reach me **merwinrebello02@gmail.com**
 
